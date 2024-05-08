@@ -1,0 +1,395 @@
+{
+    "record" : 
+    [
+        {
+            "id" : "0x01000000",
+            "name" : "app_name",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000001",
+            "name" : "app_icon",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000002",
+            "name" : "EntryAbility_desc",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000003",
+            "name" : "EntryAbility_label",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000004",
+            "name" : "click_me",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000005",
+            "name" : "module_desc",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000006",
+            "name" : "start_window_background",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000007",
+            "name" : "icon",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000008",
+            "name" : "main_pages",
+            "type" : "profile"
+        },
+        {
+            "id" : "0x01000009",
+            "name" : "http_error_message",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000A",
+            "name" : "splash_desc",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000B",
+            "name" : "tab_home",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000C",
+            "name" : "tab_project",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000D",
+            "name" : "tab_search",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000E",
+            "name" : "tab_wx_article",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000F",
+            "name" : "color_999999",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000010",
+            "name" : "color_black",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000011",
+            "name" : "eighty_alpha_black",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000012",
+            "name" : "eighty_alpha_white",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000013",
+            "name" : "five_alpha_black",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000014",
+            "name" : "focus_color",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000015",
+            "name" : "forty_alpha_black",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000016",
+            "name" : "indicator_select",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000017",
+            "name" : "page_background",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000018",
+            "name" : "sixty_alpha_black",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000019",
+            "name" : "sixty_alpha_white",
+            "type" : "color"
+        },
+        {
+            "id" : "0x0100001A",
+            "name" : "tag_color",
+            "type" : "color"
+        },
+        {
+            "id" : "0x0100001B",
+            "name" : "ten_alpha_black",
+            "type" : "color"
+        },
+        {
+            "id" : "0x0100001C",
+            "name" : "three_alpha_black",
+            "type" : "color"
+        },
+        {
+            "id" : "0x0100001D",
+            "name" : "twenty_alpha_black",
+            "type" : "color"
+        },
+        {
+            "id" : "0x0100001E",
+            "name" : "zero_alpha_black",
+            "type" : "color"
+        },
+        {
+            "id" : "0x0100001F",
+            "name" : "bar_width",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000020",
+            "name" : "big_font_size",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000021",
+            "name" : "bigger_font_size",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000022",
+            "name" : "capsule_height",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000023",
+            "name" : "commodity_desc_height",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000024",
+            "name" : "commodity_item_height",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000025",
+            "name" : "commodity_item_image_size",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000026",
+            "name" : "commodity_list_margin",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000027",
+            "name" : "count_text_width",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000028",
+            "name" : "count_width",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000029",
+            "name" : "empty_image_size",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100002A",
+            "name" : "huge_font_size",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100002B",
+            "name" : "main_image_size",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100002C",
+            "name" : "micro_font_size",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100002D",
+            "name" : "middle_font_size",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100002E",
+            "name" : "small_font_size",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100002F",
+            "name" : "smaller_font_size",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000030",
+            "name" : "splash_image_size",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000031",
+            "name" : "splash_image_size_lg",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000032",
+            "name" : "splash_text_margin_bottom",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000033",
+            "name" : "text_image_height",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000034",
+            "name" : "text_image_width",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000035",
+            "name" : "vp_eight",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000036",
+            "name" : "vp_eighteen",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000037",
+            "name" : "vp_fifty_six",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000038",
+            "name" : "vp_four",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000039",
+            "name" : "vp_fourteen",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100003A",
+            "name" : "vp_one",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100003B",
+            "name" : "vp_six",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100003C",
+            "name" : "vp_sixteen",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100003D",
+            "name" : "vp_ten",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100003E",
+            "name" : "vp_twelve",
+            "type" : "float"
+        },
+        {
+            "id" : "0x0100003F",
+            "name" : "vp_twenty",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000040",
+            "name" : "vp_twenty_four",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000041",
+            "name" : "vp_two",
+            "type" : "float"
+        },
+        {
+            "id" : "0x01000042",
+            "name" : "harmony_os",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000043",
+            "name" : "ic_author",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000044",
+            "name" : "ic_public_back",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000045",
+            "name" : "ic_time",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000046",
+            "name" : "tab_home_normal",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000047",
+            "name" : "tab_home_selected",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000048",
+            "name" : "tab_project_normal",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000049",
+            "name" : "tab_project_selected",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100004A",
+            "name" : "tab_search_normal",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100004B",
+            "name" : "tab_search_selected",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100004C",
+            "name" : "tab_wx_article__normal",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100004D",
+            "name" : "tab_wx_article_selected",
+            "type" : "media"
+        }
+    ]
+}
